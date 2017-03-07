@@ -3,7 +3,7 @@
 ###Materia: Tecnologias Web con Java Script
 ###Tema: Introduccion a la Web
 ###Fecha: 21/12/2016
-###Profesor:TANIA CALLE Y Adrian Eguez
+###Profesor:TANIA CALLE Y ADRIAN EGUEZ
 
 #INDICE DE CONTENIDOS
 -------------------------------------------
