@@ -26,9 +26,7 @@
 <a name="marco-teorico"></a>
 ## Marco Teorico
 ### SAILS
-<div align="center">
-![alt text center](http://sailsjs.com/images/logos/sails-logo_ltBg_ltBlue.png)
-<img src="logo.gif"></div>
+<div align="center"><img src="http://sailsjs.com/images/logos/sails-logo_ltBg_ltBlue.png"></div>
 
 Es un framework o un Marco de Trabajo hecho en JavaScript en Nodejs con grandes y excelentes beneficios como aplicaciones en tiempo real, querys, modelos relacionales y no relacionales, sesiones y mucho más.
  * Comandos de instalación:
