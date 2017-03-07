@@ -1,10 +1,3 @@
-
-
-
-
-
-
-
 # DEBER DE TECNOLOGÍAS WEB CON JAVASCRIPT
 -------------------------------------------
 ###Materia: Tecnologias Web con Java Script
@@ -17,14 +10,12 @@
 - <a href="#tema">Tema</a>
 - <a href="#objetivos">Objetivos</a>
 - <a href="#marco-teorico">Sails, Assets, Views, Pipelines, Controllers</a>
- * <a href="#modelo_bdd">Script de la BDD</a>
- * <a href="#script_bdd">Github</a>
 - <a href="#desarrollo">Desarrollo de la Práctica</a>
 - <a href="#conrec">Conclusiones y Recomendaciones</a>
 
 <a name="tema"></a>
 ## Tema
-Script y Modelo de la Base de Datos
+-Sails, Assets, Views, Pipelines, Controllers
 
 <a name="objetivos"></a>
 ## Objetivos
