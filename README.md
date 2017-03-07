@@ -56,6 +56,7 @@ Los controladores dentro de Sailsjs tienen como finalidad brindar los métodos C
 
 ### Pipeline
 En el archivo pipeline.js dentro de la carpeta task se encuentran las diferentes configuraciones de GRUNT que es un automatizador de actividades con JavaScript. Dentro de este podemos configurar los assets que van a ser inyectados en TODAS las vistas de nuestra aplicación en Sailsjs.
+
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
 
