@@ -1,7 +1,7 @@
 # DEBER DE TECNOLOGÍAS WEB CON JAVASCRIPT
 -------------------------------------------
 ###Materia: Tecnologias Web con Java Script
-###Tema: Introduccion a la Web
+###Tema: Sailsjs - Assets / Views / Pipeline / Controllers Tarea
 ###Fecha: 21/12/2016
 ###Profesor:TANIA CALLE Y ADRIAN EGUEZ
 
