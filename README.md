@@ -3,7 +3,7 @@
 ###Materia: Tecnologias Web con Java Script
 ###Tema: Introduccion a la Web
 ###Fecha: 21/12/2016
-###Profesor:TANIA CALLE Y ADRIAN EGUEZ
+###Profesor:TANIA CALLE Y edison logacho
 
 #INDICE DE CONTENIDOS
 -------------------------------------------
@@ -140,9 +140,9 @@ Datos:
 
 ´´´javascript
 {
-    nombre:'Adrian',
-    apellido:'Eguez',
-    correo:'adrian.eguez@epn.edu.ec'
+    nombre:'edison',
+    apellido:'logacho',
+    correo:'edison.logacho@epn.edu.ec'
 }
 ´´´
 
@@ -163,17 +163,17 @@ Datos:
 ´´´javascript
 [
   {
-    "nombres": "Adrian",
-    "apellidos": "Eguez",
-    "correo": "adrian.eguez@epn.edu.ec",
+    "nombres": "edison",
+    "apellidos": "logacho",
+    "correo": "edison.logacho@epn.edu.ec",
     "createdAt": "2016-12-21T18:57:16.362Z",
     "updatedAt": "2016-12-21T18:57:16.362Z",
     "id": 1
   },
   {
-    "nombress": "Vicente",
-    "apellidoss": "Sarzosa",
-    "correos": "vicente.sarzosa@epn.edu.ec",
+    "nombress": "javier",
+    "apellidoss": "iza",
+    "correos": "javier.iza@epn.edu.ec",
     "correo": "correo@invalido.com",
     "createdAt": "2016-12-21T18:58:00.888Z",
     "updatedAt": "2016-12-21T19:06:31.603Z",
@@ -200,9 +200,9 @@ Datos:
 
 ´´´javascript
   {
-    "nombres": "Adrian",
-    "apellidos": "Eguez",
-    "correo": "adrian.eguez@epn.edu.ec",
+    "nombres": "edison",
+    "apellidos": "logacho",
+    "correo": "edison.logacho@epn.edu.ec",
     "createdAt": "2016-12-21T18:57:16.362Z",
     "updatedAt": "2016-12-21T18:57:16.362Z",
     "id": 1
@@ -224,9 +224,9 @@ Datos:
 
 ´´´javascript
   {
-    "nombres": "Adrian",
-    "apellidos": "Eguez",
-    "correo": "adrian.eguez@epn.edu.ec",
+    "nombres": "edison",
+    "apellidos": "logacho",
+    "correo": "edison.logacho@epn.edu.ec",
     "createdAt": "2016-12-21T18:57:16.362Z",
     "updatedAt": "2016-12-21T18:57:16.362Z",
     "id": 1
@@ -248,9 +248,9 @@ Datos:
 
 ´´´javascript
   {
-    "nombres": "Adrian",
-    "apellidos": "Eguez",
-    "correo": "adrian.eguez@epn.edu.ec",
+    "nombres": "edison",
+    "apellidos": "logacho",
+    "correo": "edison.logacho@epn.edu.ec",
     "createdAt": "2016-12-21T18:57:16.362Z",
     "updatedAt": "2016-12-21T18:57:16.362Z",
     "id": 1
@@ -266,7 +266,7 @@ Con los shortcuts tenemos la posibilidad de crear borrar y actualizar mediante s
 
 
 ´´´
-http://localhost:1337/Usuario/create?nombres=Adrian&apellidos=Lucho
+http://localhost:1337/Usuario/create?nombres=edison&apellidos=Lucho
 
 http://localhost:1337/Usuario/destroy/1
 
