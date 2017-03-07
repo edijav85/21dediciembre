@@ -29,11 +29,13 @@
 Es un framework o un Marco de Trabajo hecho en JavaScript en Nodejs con grandes y excelentes beneficios como aplicaciones en tiempo real, querys, modelos relacionales y no relacionales, sesiones y mucho más.
  * Comandos de instalación:
     - npm install -g sails
-      --Instala sailsjs globalmente en nuestro sistema operativo
+    
+      ++ Instala sailsjs globalmente en nuestro sistema operativo
+
  * Comandos de sails:
     - sails new Aplicación
-      --Crea una nueva aplicación en el directorio actual con nombre Aplicación.
+      ++ Crea una nueva aplicación en el directorio actual con nombre Aplicación.
     - sails generate controller NuevoControlador
-      --Crea un nuevo controllador dentro de nuestra aplicación, llamado NuevoControlador. Internamente se agrega un archivo a la cartpeta     controllers, dentro de la carpeta Api.
+      ++ Crea un nuevo controllador dentro de nuestra aplicación, llamado NuevoControlador. Internamente se agrega un archivo a la cartpeta     controllers, dentro de la carpeta Api.
 
 ###<a name="script_bdd">Script de la BDD</a>
