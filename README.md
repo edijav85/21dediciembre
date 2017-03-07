@@ -29,7 +29,7 @@
 Es un framework o un Marco de Trabajo hecho en JavaScript en Nodejs con grandes y excelentes beneficios como aplicaciones en tiempo real, querys, modelos relacionales y no relacionales, sesiones y mucho más.
  * Comandos de instalación:
     - npm install -g sails
-    -- Instala sailsjs globalmente en nuestro sistema operativo
+      --Instala sailsjs globalmente en nuestro sistema operativo
  * Comandos de sails:
     - sails new Aplicación
       --Crea una nueva aplicación en el directorio actual con nombre Aplicación.
