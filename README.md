@@ -22,6 +22,7 @@
 
 - Dar a conocer las principales conceptos que infieren en el uso del framework SAILS JS.
 - Dar a conocer los comandos basicos para la istalacion de SAILS
+
 <a name="marco-teorico"></a>
 ## Marco Teorico
 ### SAILS
