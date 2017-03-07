@@ -20,21 +20,13 @@
 <a name="objetivos"></a>
 ## Objetivos
 
-- Dar a conocer el modelo de la base de datos que se utilizará para el proyecto del segundo bimestre
-- Dar a conocer el script de la base de datos que se utilizará para el proyecto del segundo bimestre
-- Indicar algunos detalles de los modelos ateriormente mencionados
-- Dar a conocer las diferentes tablas que se emplearán en la bdd en referencia al proyecto del segundo bimestre
-
+- Dar a conocer las principales conceptos que infieren en el uso del framework SAILS JS.
+- Dar a conocer los comandos basicos para la istalacion de SAILS
 <a name="marco-teorico"></a>
 ## Marco Teorico
-
-El proyecto que se tiene contemplado es la creacion de un sitio, el mismo que oferte zapatos para damas.
-La necesidad de crear un sitio como tal es en base a las demandas creadas por personas que tienen la tendencia de comprar calzado para cada tipo
-de salida.
-
+### SAILS
+Es un framework o un Marco de Trabajo hecho en JavaScript en Nodejs con grandes y excelentes beneficios como aplicaciones en tiempo real, querys, modelos relacionales y no relacionales, sesiones y mucho más.
 
 
 
 ###<a name="script_bdd">Script de la BDD</a>
-
-A continuacion se presenta el escript que se hizo correr en el programa PostgreSQL
