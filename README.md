@@ -26,6 +26,7 @@
 <a name="marco-teorico"></a>
 ## Marco Teorico
 ### SAILS
+![GitHub Logo](http://sailsjs.com/images/logos/sails-logo_ltBg_ltBlue.png)
 Es un framework o un Marco de Trabajo hecho en JavaScript en Nodejs con grandes y excelentes beneficios como aplicaciones en tiempo real, querys, modelos relacionales y no relacionales, sesiones y mucho más.
  * Comandos de instalación:
     - npm install -g sails
@@ -57,8 +58,8 @@ Los controladores dentro de Sailsjs tienen como finalidad brindar los métodos C
 ### Pipeline
 En el archivo pipeline.js dentro de la carpeta task se encuentran las diferentes configuraciones de GRUNT que es un automatizador de actividades con JavaScript. Dentro de este podemos configurar los assets que van a ser inyectados en TODAS las vistas de nuestra aplicación en Sailsjs.
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+
+
 
 
 
